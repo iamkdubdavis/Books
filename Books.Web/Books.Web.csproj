@@ -252,6 +252,11 @@
     <Content Include="Views\Books\Details.cshtml" />
     <Content Include="Views\Books\Edit.cshtml" />
     <Content Include="Views\Books\Index.cshtml" />
+    <Content Include="Views\Books2\Create.cshtml" />
+    <Content Include="Views\Books2\Delete.cshtml" />
+    <Content Include="Views\Books2\Details.cshtml" />
+    <Content Include="Views\Books2\Edit.cshtml" />
+    <Content Include="Views\Books2\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
